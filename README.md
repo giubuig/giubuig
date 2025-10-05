@@ -1,4 +1,4 @@
-Hi, I'm Giulio Burgio, a theoretical physicist currently postodc in [Alvaro Sanchez's Lab](https://sanchezlaboratory.weebly.com) at the Institute of Functional Biology and Genomics, in the historical city of Salamanca, Spain. The complexity of the world seduced me a while ago, and since then I’ve been courting it with statistical physics and network theory—though I don’t expect it to reciprocate.
+Hi, I'm Giulio Burgio, a theoretical physicist currently postdoc in [Alvaro Sanchez's Lab](https://sanchezlaboratory.weebly.com) at the Institute of Functional Biology and Genomics, in the historical city of Salamanca, Spain. The complexity of the world seduced me a while ago, and since then I’ve been courting it with statistical physics and network theory—though I don’t expect it to reciprocate.
 
 I obtained a PhD in the Department of Computer Science and Mathematics of the Rovira i Virgili University (Tarragona, Spain) under the supervision of Profs. Alex Arenas and Sergio Gómez. I then spent one year at the Vermont Complex Systems Institute as a postodc in Prof. Juniper Lovato's lab. 
 
